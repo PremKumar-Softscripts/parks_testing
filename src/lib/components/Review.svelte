@@ -822,5 +822,7 @@
     transition: width 0.3s ease;
   }
 
-
+  /* .option-judge {
+    padding:0 ;
+  } */
 </style>
